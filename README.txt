@@ -70,7 +70,7 @@ STEPS
 4. SET YOUR PATH, RUN, PUSH, PULL (6 min)
 
    Stata: open stata/main.do (in your clone). In section "2 Set file paths",
-   copy Nandita's block and change it for yourself:
+   copy existing block and change it for yourself:
 
      // YOU
      else if "`c(username)'" == "yourusername" {         // di c(username) shows it

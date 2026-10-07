@@ -3,7 +3,7 @@
 #             EXERCISE · Results that update themselves in Overleaf
 #                                   main.R
 # ------------------------------------------------------------------------------
-#  Author(s): DIL Data Team · Nandita Gupta (nanditag@uchicago.edu)
+#  Author(s): DIL Data Team 
 #  Updated:   October 2026
 #
 #  Summary:   R version of the Session 5 Overleaf exercise (the Stata version
@@ -25,7 +25,7 @@
 
 # THE SWITCH. FALSE = all fieldwork days; TRUE = the last 7 days of fieldwork.
 # Run once with FALSE, then change it to TRUE (step 5 of README.txt).
-last_week_only <- FALSE
+last_week_only <- TRUE
 
 # ---- 2 Your one path ------------------------------------------------------------
 #   repo_dir : your local clone of YOUR FORK of the exercise repository (the
