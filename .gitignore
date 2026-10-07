@@ -1,0 +1,5 @@
+.DS_Store
+*.stswp
+*.log
+.Rhistory
+.Rproj.user/
