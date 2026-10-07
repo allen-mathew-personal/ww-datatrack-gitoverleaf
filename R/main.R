@@ -25,7 +25,7 @@
 
 # THE SWITCH. FALSE = all fieldwork days; TRUE = the last 7 days of fieldwork.
 # Run once with FALSE, then change it to TRUE (step 5 of README.txt).
-last_week_only <- TRUE
+last_week_only <- FALSE
 
 # ---- 2 Your one path ------------------------------------------------------------
 #   repo_dir : your local clone of YOUR FORK of the exercise repository (the
